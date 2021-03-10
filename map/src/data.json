@@ -1,0 +1,237 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "locations": [
+    
+    {
+        
+        "properties": {
+            "WEBSITE": "https://ceg.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Red building, Office",
+            "PHONENO": 4422358491
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.011693, 80.235547]
+        }
+    },
+    {
+        
+        "properties": {
+            "WEBSITE": "https://www.aaceg.org/about-aaceg/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Tag Auditorium",
+            "PHONENO": "NA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.011388, 80.232871]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/industrial/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Department of Industrial Engineering",
+            "PHONENO": "4422358491"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.010037, 80.234149]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Anna Statue",
+            "PHONENO": "NA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.010171, 80.235313]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/Maths/index.php",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Department of Mathematics",
+            "PHONENO": 4422358491
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.011428, 80.235499]
+        }
+    },
+    {
+        
+        "properties": {
+            "WEBSITE": "https://www.sbi.co.in/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "State bank of India",
+            "PHONENO": "NA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.010644, 80.236012]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/act/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "ACT Campus",
+            "PHONENO": 9840615331
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.007961, 80.238795]
+        }
+    },
+    {
+        
+        "properties": {
+            "WEBSITE": "https://library.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "University Library",
+            "PHONENO": 4422352174
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.010489, 80.237897]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Sports Ground",
+            "PHONENO": "NA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.011564, 80.237195]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Vivekananda Auditorium",
+            "PHONENO": "NA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.011566, 80.236368]
+        }
+    },
+    {
+        
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/RemoteSensing/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "IRS",
+            "PHONENO": 4422358156
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.009252, 80.236336]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Knowledge Park",
+            "PHONENO": "NA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.013304, 80.235930]
+        }
+    },
+    {
+       
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Health Centre",
+            "PHONENO": "NA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.013551, 80.239353]
+        }
+    },
+    {
+      
+        "properties": {
+            "WEBSITE": "http://cs.annauniv.edu/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Department of Computer Science and Engineering",
+            "PHONENO": 4422358491
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.012585, 80.235923]
+        }
+    },
+    {
+        
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/ece/index.php",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Department of Electronics and Communication",
+            "PHONENO": 4422358491
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.012566, 80.235389]
+        }
+    },
+    {
+        
+        "properties": {
+            "WEBSITE": "https://www.annauniv.edu/DIST/",
+            "PLACE": "Anna University, CEG Campus, Guindy",
+            "SPACE": "--------------------------------------------",
+            "NAME": "Department of Information Technology",
+            "PHONENO": 4422358812
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.012995, 80.235925]
+        }
+    }
+
+    ]
+}
